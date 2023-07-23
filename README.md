@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yogesh123gn
+- 👋 Hi, I’m @yogesh_2641
 - 👀 I’m interested in computer science and programming.
 - 🌱 I’m currently learning computer engineering from Rajarambapu Institute of Technology.
 - 💞️ I’m looking to collaborate on technologies such as Web development,Machine Learning and Blockchain,etc.
