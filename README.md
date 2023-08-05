@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Yogesh Nanavare</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh123gn" alt="yogesh123gn" /></a> </p>
-
 - 👀 I’m interested in computer science and programming.
 - 🌱 I’m currently learning computer engineering from Rajarambapu Institute of Technology.
 - 💞️ I’m looking to collaborate on technologies such as Web development, AI/ML and Blockchain,etc.
